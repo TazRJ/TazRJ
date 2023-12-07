@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     I'm a penultimate year <b>Software Engineering (Honours)</b> undergraduate based @ <b>UTS</b>.
-    <b>Freelancer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    A <b>Freelancer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
 </p>
 
