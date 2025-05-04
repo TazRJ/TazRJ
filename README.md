@@ -5,14 +5,14 @@
 
 <p align="center">
   <em>
-    I'm a penultimate year <b>Software Engineering (Honours)</b> undergraduate based @ <b>UTS</b>.
-    A <b>Freelancer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    I'm an <b>Interface engineer</b> @ <b>Oracle Health</b>.
+    A <b>Freelancer,</b>&nbsp; <b>Full Stack Software Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
 </p>
 
 <h3>About me 🧑</h3>
 
-- 👯 I’m looking to collaborate on fullstack web projects.
+- 👯 I’m looking to collaborate on fullstack software projects.
 - 💡 Freelancing allows me to exercise my business-centric skills in the software space!
 - ⚡ Fun fact: I love Combat Sports, especially boxing.
 
@@ -54,9 +54,6 @@
 
 <h4> Socials 🤝: <h4>
   </hr>
-  <a href="https://tarunrj.netlify.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
   <a href="https://www.linkedin.com/in/tarun-raja-12a790245/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
